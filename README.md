@@ -71,18 +71,6 @@
 ### 📊 สถิติบน GitHub (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=68040233110-wq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=68040233110-wq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=68040233110-wq&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-<div align="center">
   <p style="font-size: 0.8rem; color: #8b949e;">
     Created with ❤️ by Nathapakan K. <br>
     Last Updated: 2025
